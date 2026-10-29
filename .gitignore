@@ -1,0 +1,4 @@
+*.key
+*.apk
+template.apk
+node_modules/
